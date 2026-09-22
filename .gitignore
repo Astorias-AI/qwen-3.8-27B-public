@@ -1,0 +1,17 @@
+.env
+.env.local
+*.pem
+id_ed25519
+id_rsa
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.cache/
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.log
